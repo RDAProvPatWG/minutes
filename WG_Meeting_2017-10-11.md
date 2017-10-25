@@ -9,6 +9,11 @@ Canberra, Australia        Wed, 11 Oct 2017 at 1:00 am AEDT
 
 ## Attendees
 * Nicholas Car
+* Dave Dubin
+* Barbara Magagana
+* Doron Goldfarb
+* Markus Stocker
+* Paolo Missier
 
 ## Agenda
 1. Review of last meeting’s minutes:
@@ -23,7 +28,7 @@ Canberra, Australia        Wed, 11 Oct 2017 at 1:00 am AEDT
 			* theory: upper ontology mappings from Simon Cox's mapping work
 			* implementation: specialisation of "Associating..." for ISO19115 mapping, using GA's ISO19115 profile
 			* implementation: how best to use PROV with DCAT (and other document-style metadata OWL ontologies like DC)
-				* can we find a patter for this in the PROV docco?
+				* can we find a pattern for this in the PROV docco?
 	* Provenance Sharing workplan
 3. Member reports
 	* Nicholas Car: 
@@ -36,3 +41,43 @@ Canberra, Australia        Wed, 11 Oct 2017 at 1:00 am AEDT
 		* 1 poster:
 			* Linking document-based metadata to provenance expressed in graphs
 				* based on Pattern 12
+
+------------------------- 
+* NC: Make Barbara an account for Patterns DB
+* Use GitHub for Minutes NC: upload
+
+* Pattern 12
+	* Barbara like it
+	* Dave include turtle listings
+	* NC: turn comments on
+	* NC: pattern status
+	* NC: C & D images not showing
+* NC: Simon upper pattern
+* NC: proposal for SKOS + PROV pattern
+* NC: patterns when would one need qualified patterns
+
+* Barbara invited to Euroean provenance conference
+
+* Sharing
+	* Paolo: contact Tim Lebo
+	* Barbara: Austria not ready
+	* NC: send pingback tools to Barbara
+	* Markus: Pangea 
+		- using DataCite schema for articles/datasets
+		- could technically implement Pingbacks
+		- NC: make pingbacks test proposal
+
+* papers
+	* NC: ask MODSIM authors for prepreints for group
+
+* Member reports
+	* DD: presenting at iConfernece, Edinburgh
+		* on ontology alignment, potentially using PROV
+	* MS: nothing, soon to be working on ENVRIPlus with Barbara
+	* PM: working on a large grant proposal including provenance
+	* BM: nothing, developing EcoPortal ESWC Vienna, working with Doron
+	* Doron Goldfarb: Env Agency Austrlia. Cognitive sceince & LD background. UDAT project work
+		* integrating federated semantic search
+	* 
+
+
