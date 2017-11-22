@@ -34,7 +34,7 @@ Canberra, Australia       Wed, 25 Oct 2017 at 11:00 am AEDT
 	* The next step is for WG comments on these patterns
 		* NC to create accounts for people without: <https://github.com/RDAProvPatWG/minutes/issues/5>
 	* Following step is to socialise these patterns outside the WG
-		* II to send to Ted Habermas for review: <https://github.com/RDAProvPatWG/minutes/issues/7>
+		* II to send to Ted Habermann for review: <https://github.com/RDAProvPatWG/minutes/issues/7>
 
 ## Left over from last meeting
 * NC: extract patterns from Simon Cox's PROV upper ontology pattern: <https://github.com/RDAProvPatWG/minutes/issues/8>
