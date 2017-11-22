@@ -6,14 +6,14 @@ Canberra, Australia    Wed, 22 Nov 2017 at 11:00 am AEDT
 
 
 ## Attendees
-Nicholas Car
-Dave Dubin
-Simon Cox
-Mingfang Wu
-John Morressey
-Gowrie Sriraman
-Irina Bastrakova
-Ingrid Mason
+Nicholas Car  
+Dave Dubin  
+Simon Cox  
+Mingfang Wu  
+John Morressey  
+Gowrie Sriraman  
+Irina Bastrakova  
+Ingrid Mason  
 
 Apologies: Ivana Ivanova
 
