@@ -22,11 +22,14 @@ Reyna Jenkins
 2. Review progress to date on Prov Patterns WG
 	* Charter updated and communicated to new TAB liaison officer (Sarah Ramdeen)
 	* next step, P11 session proposal
+		* [issues/16](https://github.com/RDAProvPatWG/minutes/issues/16)
 		* agenda: present the UC DB, begin discussion of adoption guidelines
 		* TODO: DD to make presentations on "What is a provenance Pattern", NC to make presentation on how solutions are implemented
+			* [issues/17](https://github.com/RDAProvPatWG/minutes/issues/17) & [issues/18](https://github.com/RDAProvPatWG/minutes/issues/18)
 	* discussion about session proposal
 		* document written for proposal
 		* TODO: DD to create plenaries repo
+			* [issues/19](https://github.com/RDAProvPatWG/minutes/issues/19) - COMPLETE
 3. Interest Items
 	* discussion about MODSIM '17 & '19
 		* MODSIM '17 successful provenance session
