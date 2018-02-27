@@ -6,10 +6,10 @@
 
 
 ## Attendees
-Nicholas Car
-Davi Dubin
-Dorno Goldfarb
-Alessandro Spinuso
+Nicholas Car  
+Davi Dubin  
+Dorno Goldfarb  
+Alessandro Spinuso  
 
 Apologies Barbara Magagna
 
