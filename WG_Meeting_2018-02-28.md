@@ -33,5 +33,6 @@ Apologies Barbara Magagna
       * https://github.com/w3c/dxwg/issues/90 - Version definition
       * https://github.com/w3c/dxwg/issues/89 - Version delta
   * Alessandro: mentioned the creation of a DCAT Appplication Profile for euroCRIS. ACTION: Alessandro to put the PhD student doing the work in touch with this WG
+  * ACTION: NC to contact Barbara Magagna and discuss the Org Reg concept & patterns
 3. Next meeting
 	* 13/14th Mar, Australian friendly time, as per normal
