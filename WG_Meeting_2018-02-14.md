@@ -7,12 +7,12 @@
 
 ## Attendees
 Nicholas Car  
-David Dubin
-Ivana Ivanova
-Rowan
-Tim Smith
-Simon Cox
-Lesley Wyborn
+David Dubin  
+Ivana Ivanova  
+Rowan Brownlee  
+Tim Smith  
+Simon Cox  
+Lesley Wyborn  
 
 
 ## Agenda
