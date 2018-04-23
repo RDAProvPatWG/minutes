@@ -26,5 +26,5 @@ Nicholas Car, Anila Butt, Dave Dubin, Ivana Ivanova, Rowan Brownlee, Dave Lescin
       * we can then ensure we are catering for W3C UCs by, per focus area (Spatial, Vocabs etc.) draw any links to the W3C UCs.
       * Nick will reveal the initiatives tags on the PP DB [issue/44](https://github.com//RDAProvPatWG/minutes/issues/44)
 
-4. Next meeting
+5. Next meeting
 	* 8/9th May, Europe friendly time, as per normal
