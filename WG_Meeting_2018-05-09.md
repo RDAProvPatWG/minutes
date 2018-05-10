@@ -7,7 +7,7 @@
 
 ## Attendees
 
-Apologies: Nicholas Car, Tim Smith, Tom Honeyman, Dave Dubin, Ivana Ivanova, Mingfang Wu, Anila Butt
+Nicholas Car, Tim Smith, Tom Honeyman, Dave Dubin, Ivana Ivanova, Mingfang Wu, Anila Butt
 
 
 ## Agenda
