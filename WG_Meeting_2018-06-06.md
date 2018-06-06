@@ -7,7 +7,7 @@
 
 ## Attendees
 
-Nicholas Car
+Nicholas Car, Dave Dubin, Jon Morrissey, Ivana Ivanova, Mingfang Wu, 
 
 
 ## Agenda
