@@ -11,8 +11,10 @@ Nicholas Car
 
 
 ## Agenda
-1. Progress on our Patterns DB
-2. ProvenanceWeek engagement
-3. DCAT WG engagement
-4. Australian provenance projects July onwards
-5. Focus groups – spatial provenance, vocabularies
+1. Review last Minutes: *missing*
+2. Open Issues: https://github.com/RDAProvPatWG/minutes/issues
+3. Progress on our Patterns DB
+4. ProvenanceWeek engagement
+5. DCAT WG engagement
+6. Australian provenance projects July onwards
+7. Focus groups – spatial provenance, vocabularies
